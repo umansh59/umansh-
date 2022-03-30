@@ -1,2 +1,3 @@
 # umansh-
-abcdefghijklmnopqrstuvwxyz
+learning the git hub 
+
